@@ -5,7 +5,16 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	std::cout << "Hello World!\n"; //sta³a ³añcuchowa; sta³a tekstowa
+	std::cout << "Hel\tlo Wordl!/n";
+	std::cout << 'h'; //sta³a znakowa
+	std::cout << '\n'; //sta³a znakowa
+	std::cout << 59; //sta³a ca³kowitoliczbowa
+	std::cout << '\n';
+	std::cout << -2.5; //sta³a rzeczywista
+	std::cout << "Pierwsza liczba " << 254 << " kolejny tekst";
+	 
+	
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
