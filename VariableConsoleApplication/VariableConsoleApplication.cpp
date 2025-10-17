@@ -39,6 +39,15 @@
 			std::cout << "Podana liczba jest nieparzysta\n";
 	}
 
+	//Napisz pogram, który wyœwietli informacje czy liczba jest z zakresu <1 ; 10).
+	void task3()
+	{	
+		int number;
+		std::cout << "Podaj liczbê ca³kowit¹:\n";
+		std::cin >> number;
+
+	}
+
 	int main()
 	{
 		setlocale(LC_CTYPE, "polish");
